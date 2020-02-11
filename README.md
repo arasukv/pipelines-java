@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/arasukv/AzureDevOpsLearning/_apis/build/status/arasukv.pipelines-java?branchName=master)](https://dev.azure.com/arasukv/AzureDevOpsLearning/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
